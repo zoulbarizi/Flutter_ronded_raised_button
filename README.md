@@ -6,6 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+<img src="Screenshot_2020-01-02-08-28-28.png" alt="Image">
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
